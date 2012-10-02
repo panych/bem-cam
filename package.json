@@ -1,7 +1,12 @@
 {
-  "author": "voischev",
-  "name": "BEM_Cam",
+  "name": "bem-cam",
+  "description": "A simple project that would begin using bem-tools",
+  "author": "Voischev Ivan (http://voischev-ivan.ya.ru)",
   "version": "0.0.0",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/voischev/bem-cam.git"
+  },
   "engines": {
     "node": "0.6 | 0.7 | 0.8 | 0.9"
   },

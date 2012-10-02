@@ -2,7 +2,7 @@
   "name": "bem-cam",
   "description": "A simple project that would begin using bem-tools",
   "author": "Voischev Ivan (http://twitter.com/voischev)",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
       "type": "git",
       "url": "git://github.com/voischev/bem-cam.git"

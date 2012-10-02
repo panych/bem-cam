@@ -9,6 +9,10 @@
 * Запустить бэм сервер
 
         bem server
+        
+* Или мейк
+
+        bem make        
 
 [bem.info](http://bem.info).
 [bem клуб](http://clubs.ya.ru/bem/).

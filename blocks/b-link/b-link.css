@@ -1,0 +1,9 @@
+.b-link
+{
+    color: #1a3dc1;
+}
+
+.b-link:hover
+{
+    color: #f00;
+}

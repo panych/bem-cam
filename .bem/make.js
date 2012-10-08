@@ -1,3 +1,5 @@
+//process.env.YENV = 'production';
+
 MAKE.decl('Arch', {
 
     libraries: {

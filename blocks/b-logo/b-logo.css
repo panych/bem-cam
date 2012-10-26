@@ -1,0 +1,22 @@
+.b-logo
+{
+    display: block;
+    float: left;
+    text-decoration: none;
+}
+.b-logo__link{
+    display: inline-block;
+    text-decoration: none;
+    color: #333;
+}
+.b-logo__icon{
+    margin-bottom: 3px;
+    display: block;
+}
+.b-logo__slogan{
+    display: block;
+    font-family: Cochin;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: center;
+}

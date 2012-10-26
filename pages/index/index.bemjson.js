@@ -117,6 +117,14 @@
                             elem: 'item',
                             content: {
                                 block: 'b-link',
+                                url: 'http://bem.github.com/bem-bl/',
+                                content: 'bem-bl'
+                            }
+                        },
+                        {
+                            elem: 'item',
+                            content: {
+                                block: 'b-link',
                                 url: 'https://twitter.com/bem_tw',
                                 content: '@bem_tw'
                             }

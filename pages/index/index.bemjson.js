@@ -134,7 +134,7 @@
                             content: {
                                 block: 'b-link',
                                 url: 'http://clubs.ya.ru/bem/',
-                                content: 'Club Bem'
+                                content: 'Bem Club'
                             }
                         }
                     ]
